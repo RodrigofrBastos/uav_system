@@ -1,0 +1,3 @@
+[submodule "singularity/mrs_singularity"]
+	path = singularity/mrs_singularity
+	url = git@github.com:ctu-mrs/mrs_singularity.git
